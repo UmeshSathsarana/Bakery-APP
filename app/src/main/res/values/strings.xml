@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ShopAdmin</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="password">Pin</string>
+    <string name="logout">Logout</string>
+    <string name="home">Home</string>
+    <string name="isbn">ISBN</string>
+    <string name="id">ID</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+    <string name="cover">Cover</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="view">View</string>
+    <string name="delete">Delete</string>
+    <string name="ManageBook">Manage Book</string>
+    <string name="BookCover">Book Cover</string>
+    <string name="manage">Manage</string>
+    <string name="customer">Customer</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+</resources>

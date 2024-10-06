@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "707402119684",
+    "project_id": "shopadmin-8ea31",
+    "storage_bucket": "shopadmin-8ea31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707402119684:android:3054ff9bbb7129f9a09351",
+        "android_client_info": {
+          "package_name": "com.example.shopadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwHwf-0j6tTuM-fHt0JMR7c2GwjJtC0T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
